@@ -1,0 +1,57 @@
+2024-10-04 10:02:33.797 [INFO] Connected to TCP Server
+2024-10-04 10:02:33.804 [INFO] Response from server: Key-Value Inserted
+2024-10-04 10:02:33.805 [INFO] Response from server: Key-Value Inserted
+2024-10-04 10:02:33.806 [INFO] Response from server: Key-Value Inserted
+2024-10-04 10:02:33.807 [INFO] Response from server: Key-Value Inserted
+2024-10-04 10:02:33.807 [INFO] Response from server: Key-Value Inserted
+2024-10-04 10:02:33.808 [INFO] Response from server: MA
+2024-10-04 10:02:33.808 [INFO] Response from server: CO
+2024-10-04 10:02:33.809 [INFO] Response from server: TX
+2024-10-04 10:02:33.809 [INFO] Response from server: IN
+2024-10-04 10:02:33.810 [INFO] Response from server: IL
+2024-10-04 10:02:33.811 [INFO] Response from server: Deleted Austin
+2024-10-04 10:02:33.811 [INFO] Response from server: Deleted Detroit
+2024-10-04 10:02:33.811 [INFO] Response from server: Deleted SanDiego
+2024-10-04 10:02:33.812 [INFO] Response from server: Deleted Bloomington
+2024-10-04 10:02:33.812 [INFO] Response from server: Key Not Found
+2024-10-04 10:04:43.992 [INFO] Connected to TCP Server
+2024-10-04 10:04:44.020 [INFO] Response from server: Key-Value Inserted
+2024-10-04 10:04:44.021 [INFO] Response from server: Key-Value Inserted
+2024-10-04 10:04:44.022 [INFO] Response from server: Key-Value Inserted
+2024-10-04 10:04:44.022 [INFO] Response from server: Key-Value Inserted
+2024-10-04 10:04:44.023 [INFO] Response from server: Key-Value Inserted
+2024-10-04 10:04:44.023 [INFO] Response from server: MA
+2024-10-04 10:04:44.024 [INFO] Response from server: CO
+2024-10-04 10:04:44.024 [INFO] Response from server: TX
+2024-10-04 10:04:44.025 [INFO] Response from server: IN
+2024-10-04 10:04:44.025 [INFO] Response from server: IL
+2024-10-04 10:04:44.026 [INFO] Response from server: Deleted Austin
+2024-10-04 10:04:44.027 [INFO] Response from server: Deleted Detroit
+2024-10-04 10:04:44.027 [INFO] Response from server: Deleted SanDiego
+2024-10-04 10:04:44.028 [INFO] Response from server: Deleted Bloomington
+2024-10-04 10:04:44.029 [INFO] Response from server: Key Not Found
+2024-10-04 10:04:54.199 [INFO] Connection reset
+2024-10-04 10:13:41.917 [INFO] Connected to TCP Server
+2024-10-04 10:13:41.945 [INFO] Response from server: Key-Value Inserted
+2024-10-04 10:13:41.946 [INFO] Response from server: Key-Value Inserted
+2024-10-04 10:13:41.947 [INFO] Response from server: Key-Value Inserted
+2024-10-04 10:13:41.948 [INFO] Response from server: Key-Value Inserted
+2024-10-04 10:13:41.948 [INFO] Response from server: Key-Value Inserted
+2024-10-04 10:13:41.949 [INFO] Response from server: Key-Value Inserted
+2024-10-04 10:13:41.949 [INFO] Response from server: Key-Value Inserted
+2024-10-04 10:13:41.950 [INFO] Response from server: Key-Value Inserted
+2024-10-04 10:13:41.950 [INFO] Response from server: Key-Value Inserted
+2024-10-04 10:13:41.951 [INFO] Response from server: Key-Value Inserted
+2024-10-04 10:13:41.951 [INFO] Response from server: MA
+2024-10-04 10:13:41.952 [INFO] Response from server: CO
+2024-10-04 10:13:41.952 [INFO] Response from server: TX
+2024-10-04 10:13:41.953 [INFO] Response from server: IN
+2024-10-04 10:13:41.953 [INFO] Response from server: IL
+2024-10-04 10:13:41.955 [INFO] Response from server: Deleted Austin
+2024-10-04 10:13:41.955 [INFO] Response from server: Deleted Detroit
+2024-10-04 10:13:41.956 [INFO] Response from server: Deleted SanDiego
+2024-10-04 10:13:41.956 [INFO] Response from server: Deleted Bloomington
+2024-10-04 10:13:41.957 [INFO] Response from server: Key Not Found
+2024-10-04 10:13:55.717 [INFO] Response from server: Deleted Boston
+2024-10-04 10:14:02.587 [INFO] Response from server: Key Not Found
+2024-10-04 10:14:06.909 [INFO] Disconnected from TCP server

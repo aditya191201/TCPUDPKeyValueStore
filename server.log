@@ -1,0 +1,106 @@
+2024-10-04 10:02:33.798 [INFO] Received: PUT Detroit MI request from /127.0.0.1:53635
+2024-10-04 10:02:33.799 [INFO] Sent following response: Key-Value Inserted
+2024-10-04 10:02:33.805 [INFO] Received: PUT Denver CO request from /127.0.0.1:53635
+2024-10-04 10:02:33.805 [INFO] Sent following response: Key-Value Inserted
+2024-10-04 10:02:33.806 [INFO] Received: PUT JerseyCity NJ request from /127.0.0.1:53635
+2024-10-04 10:02:33.806 [INFO] Sent following response: Key-Value Inserted
+2024-10-04 10:02:33.806 [INFO] Received: PUT Bloomington IN request from /127.0.0.1:53635
+2024-10-04 10:02:33.807 [INFO] Sent following response: Key-Value Inserted
+2024-10-04 10:02:33.807 [INFO] Received: PUT Seattle WA request from /127.0.0.1:53635
+2024-10-04 10:02:33.807 [INFO] Sent following response: Key-Value Inserted
+2024-10-04 10:02:33.808 [INFO] Received: GET Boston request from /127.0.0.1:53635
+2024-10-04 10:02:33.808 [INFO] Sent following response: MA
+2024-10-04 10:02:33.808 [INFO] Received: GET Denver request from /127.0.0.1:53635
+2024-10-04 10:02:33.808 [INFO] Sent following response: CO
+2024-10-04 10:02:33.809 [INFO] Received: GET Austin request from /127.0.0.1:53635
+2024-10-04 10:02:33.809 [INFO] Sent following response: TX
+2024-10-04 10:02:33.809 [INFO] Received: GET Bloomington request from /127.0.0.1:53635
+2024-10-04 10:02:33.809 [INFO] Sent following response: IN
+2024-10-04 10:02:33.810 [INFO] Received: GET Chicago request from /127.0.0.1:53635
+2024-10-04 10:02:33.810 [INFO] Sent following response: IL
+2024-10-04 10:02:33.810 [INFO] Received: DELETE Austin request from /127.0.0.1:53635
+2024-10-04 10:02:33.811 [INFO] Sent following response: Deleted Austin
+2024-10-04 10:02:33.811 [INFO] Received: DELETE Detroit request from /127.0.0.1:53635
+2024-10-04 10:02:33.811 [INFO] Sent following response: Deleted Detroit
+2024-10-04 10:02:33.811 [INFO] Received: DELETE SanDiego request from /127.0.0.1:53635
+2024-10-04 10:02:33.811 [INFO] Sent following response: Deleted SanDiego
+2024-10-04 10:02:33.812 [INFO] Received: DELETE Bloomington request from /127.0.0.1:53635
+2024-10-04 10:02:33.812 [INFO] Sent following response: Deleted Bloomington
+2024-10-04 10:02:33.812 [INFO] Received: DELETE Random request from /127.0.0.1:53635
+2024-10-04 10:02:33.812 [INFO] Sent following response: Key Not Found
+2024-10-04 10:04:36.771 [INFO] TCP Server running on port: 9000
+2024-10-04 10:04:44.013 [INFO] Received: PUT Detroit MI request from /127.0.0.1:53658
+2024-10-04 10:04:44.018 [INFO] Sent following response: Key-Value Inserted
+2024-10-04 10:04:44.021 [INFO] Received: PUT Denver CO request from /127.0.0.1:53658
+2024-10-04 10:04:44.021 [INFO] Sent following response: Key-Value Inserted
+2024-10-04 10:04:44.021 [INFO] Received: PUT JerseyCity NJ request from /127.0.0.1:53658
+2024-10-04 10:04:44.022 [INFO] Sent following response: Key-Value Inserted
+2024-10-04 10:04:44.022 [INFO] Received: PUT Bloomington IN request from /127.0.0.1:53658
+2024-10-04 10:04:44.022 [INFO] Sent following response: Key-Value Inserted
+2024-10-04 10:04:44.022 [INFO] Received: PUT Seattle WA request from /127.0.0.1:53658
+2024-10-04 10:04:44.023 [INFO] Sent following response: Key-Value Inserted
+2024-10-04 10:04:44.023 [INFO] Received: GET Boston request from /127.0.0.1:53658
+2024-10-04 10:04:44.023 [INFO] Sent following response: MA
+2024-10-04 10:04:44.023 [INFO] Received: GET Denver request from /127.0.0.1:53658
+2024-10-04 10:04:44.024 [INFO] Sent following response: CO
+2024-10-04 10:04:44.024 [INFO] Received: GET Austin request from /127.0.0.1:53658
+2024-10-04 10:04:44.024 [INFO] Sent following response: TX
+2024-10-04 10:04:44.024 [INFO] Received: GET Bloomington request from /127.0.0.1:53658
+2024-10-04 10:04:44.024 [INFO] Sent following response: IN
+2024-10-04 10:04:44.025 [INFO] Received: GET Chicago request from /127.0.0.1:53658
+2024-10-04 10:04:44.025 [INFO] Sent following response: IL
+2024-10-04 10:04:44.025 [INFO] Received: DELETE Austin request from /127.0.0.1:53658
+2024-10-04 10:04:44.026 [INFO] Sent following response: Deleted Austin
+2024-10-04 10:04:44.026 [INFO] Received: DELETE Detroit request from /127.0.0.1:53658
+2024-10-04 10:04:44.026 [INFO] Sent following response: Deleted Detroit
+2024-10-04 10:04:44.027 [INFO] Received: DELETE SanDiego request from /127.0.0.1:53658
+2024-10-04 10:04:44.027 [INFO] Sent following response: Deleted SanDiego
+2024-10-04 10:04:44.028 [INFO] Received: DELETE Bloomington request from /127.0.0.1:53658
+2024-10-04 10:04:44.028 [INFO] Sent following response: Deleted Bloomington
+2024-10-04 10:04:44.029 [INFO] Received: DELETE Random request from /127.0.0.1:53658
+2024-10-04 10:04:44.029 [INFO] Sent following response: Key Not Found
+2024-10-04 10:13:36.423 [INFO] TCP Server running on port: 9000
+2024-10-04 10:13:41.937 [INFO] Received: PUT Boston MA request from /127.0.0.1:53833
+2024-10-04 10:13:41.943 [INFO] Sent following response: Key-Value Inserted
+2024-10-04 10:13:41.946 [INFO] Received: PUT NewYork NY request from /127.0.0.1:53833
+2024-10-04 10:13:41.946 [INFO] Sent following response: Key-Value Inserted
+2024-10-04 10:13:41.947 [INFO] Received: PUT Chicago IL request from /127.0.0.1:53833
+2024-10-04 10:13:41.947 [INFO] Sent following response: Key-Value Inserted
+2024-10-04 10:13:41.947 [INFO] Received: PUT SanDiego CA request from /127.0.0.1:53833
+2024-10-04 10:13:41.948 [INFO] Sent following response: Key-Value Inserted
+2024-10-04 10:13:41.948 [INFO] Received: PUT Austin TX request from /127.0.0.1:53833
+2024-10-04 10:13:41.948 [INFO] Sent following response: Key-Value Inserted
+2024-10-04 10:13:41.949 [INFO] Received: PUT Detroit MI request from /127.0.0.1:53833
+2024-10-04 10:13:41.949 [INFO] Sent following response: Key-Value Inserted
+2024-10-04 10:13:41.949 [INFO] Received: PUT Denver CO request from /127.0.0.1:53833
+2024-10-04 10:13:41.949 [INFO] Sent following response: Key-Value Inserted
+2024-10-04 10:13:41.950 [INFO] Received: PUT JerseyCity NJ request from /127.0.0.1:53833
+2024-10-04 10:13:41.950 [INFO] Sent following response: Key-Value Inserted
+2024-10-04 10:13:41.950 [INFO] Received: PUT Bloomington IN request from /127.0.0.1:53833
+2024-10-04 10:13:41.950 [INFO] Sent following response: Key-Value Inserted
+2024-10-04 10:13:41.950 [INFO] Received: PUT Seattle WA request from /127.0.0.1:53833
+2024-10-04 10:13:41.951 [INFO] Sent following response: Key-Value Inserted
+2024-10-04 10:13:41.951 [INFO] Received: GET Boston request from /127.0.0.1:53833
+2024-10-04 10:13:41.951 [INFO] Sent following response: MA
+2024-10-04 10:13:41.952 [INFO] Received: GET Denver request from /127.0.0.1:53833
+2024-10-04 10:13:41.952 [INFO] Sent following response: CO
+2024-10-04 10:13:41.952 [INFO] Received: GET Austin request from /127.0.0.1:53833
+2024-10-04 10:13:41.952 [INFO] Sent following response: TX
+2024-10-04 10:13:41.953 [INFO] Received: GET Bloomington request from /127.0.0.1:53833
+2024-10-04 10:13:41.953 [INFO] Sent following response: IN
+2024-10-04 10:13:41.953 [INFO] Received: GET Chicago request from /127.0.0.1:53833
+2024-10-04 10:13:41.953 [INFO] Sent following response: IL
+2024-10-04 10:13:41.954 [INFO] Received: DELETE Austin request from /127.0.0.1:53833
+2024-10-04 10:13:41.954 [INFO] Sent following response: Deleted Austin
+2024-10-04 10:13:41.955 [INFO] Received: DELETE Detroit request from /127.0.0.1:53833
+2024-10-04 10:13:41.955 [INFO] Sent following response: Deleted Detroit
+2024-10-04 10:13:41.955 [INFO] Received: DELETE SanDiego request from /127.0.0.1:53833
+2024-10-04 10:13:41.956 [INFO] Sent following response: Deleted SanDiego
+2024-10-04 10:13:41.956 [INFO] Received: DELETE Bloomington request from /127.0.0.1:53833
+2024-10-04 10:13:41.956 [INFO] Sent following response: Deleted Bloomington
+2024-10-04 10:13:41.956 [INFO] Received: DELETE Random request from /127.0.0.1:53833
+2024-10-04 10:13:41.957 [INFO] Sent following response: Key Not Found
+2024-10-04 10:13:55.717 [INFO] Received: Delete Boston request from /127.0.0.1:53833
+2024-10-04 10:13:55.717 [INFO] Sent following response: Deleted Boston
+2024-10-04 10:14:02.586 [INFO] Received: GET Boston request from /127.0.0.1:53833
+2024-10-04 10:14:02.587 [INFO] Sent following response: Key Not Found
